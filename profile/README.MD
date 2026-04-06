@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="IEESEC Banner" style="border-radius: 8px;">
+  <img src="../assets/banner.jpg" alt="IEESEC Banner" style="border-radius: 8px;">
 </p>
 
 # 💻 IEESEC | Software Engineering Community @ IEE.IHU.GR
